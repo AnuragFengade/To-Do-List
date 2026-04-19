@@ -33,12 +33,19 @@ Local Storage – Save tasks in browser
 
 
 ⚙️ How It Works
+
 User enters a task in the input field
+
 Clicks "Add" button → Task appears in list
+
 Tasks can be:
+
 Marked as completed
+
 Edited
+
 Deleted
+
 All tasks are stored in browser using Local Storage
 
 🎯 Key Learning Outcomes
