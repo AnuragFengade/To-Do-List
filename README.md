@@ -17,10 +17,15 @@ This is a simple and interactive To-Do List Web Application built using HTML, CS
 
 📱 Responsive design (mobile-friendly UI)
 
+
 🛠️ Tech Stack
+
 HTML – Structure of the application
+
 CSS – Styling and responsive design
+
 JavaScript – Functionality and logic
+
 Local Storage – Save tasks in browser
 
 ⚙️ How It Works
