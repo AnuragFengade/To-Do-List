@@ -4,11 +4,17 @@
 This is a simple and interactive To-Do List Web Application built using HTML, CSS, and JavaScript. It allows users to manage daily tasks efficiently by adding, updating, completing, and deleting tasks in a clean and responsive interface.
 
 🚀 Features
+
 ➕ Add new tasks
+
 ✅ Mark tasks as completed
+
 ❌ Delete tasks
+
 ✏️ Edit existing tasks
+
 💾 Data persistence using Local Storage
+
 📱 Responsive design (mobile-friendly UI)
 
 🛠️ Tech Stack
