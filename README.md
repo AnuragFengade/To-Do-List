@@ -82,6 +82,10 @@ Java Full Stack Developer
 
 Passionate about building scalable web applications
 
+- 💻 [GitHub]( https://github.com/AnuragFengade)
+
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/anurag-fengade-910620255/)
+
 
 ⭐ Conclusion
 This project demonstrates strong fundamentals of front-end development and practical implementation of JavaScript concepts to build real-world applications.
