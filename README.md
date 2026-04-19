@@ -48,11 +48,17 @@ Deleted
 
 All tasks are stored in browser using Local Storage
 
+
 🎯 Key Learning Outcomes
+
 DOM Manipulation using JavaScript
+
 Event Handling
+
 Local Storage usage
+
 UI/UX design basics
+
 Responsive web development
 💡 Future Enhancements
 🔍 Search & filter tasks
