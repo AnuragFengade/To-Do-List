@@ -60,11 +60,17 @@ Local Storage usage
 UI/UX design basics
 
 Responsive web development
+
 💡 Future Enhancements
+
 🔍 Search & filter tasks
+
 📅 Due date & reminders
+
 🌙 Dark mode
+
 📊 Task progress analytics
+
 
 
 👨‍💻 Author
